@@ -12,6 +12,6 @@ Date. 2021.05.57
 따라서 우리는 그냥 출퇴근 시간을 그저 사람이 붐비는 시간이라고 인식하게 된다.  
 하지만 출근과 퇴근을 그저 사람이 많다는 이유로 동일시 하는 것이 논리적일까?
 
-![image](https://user-images.githubusercontent.com/66263916/182033320-b0b388fa-def3-40cb-9754-0d123bac9858.png)
+![image](https://user-images.githubusercontent.com/66263916/182033361-8b2e7991-fcd3-4062-90f1-80cfccb8b431.png)
 
 ![image](https://user-images.githubusercontent.com/66263916/182033335-185e91ff-fdf7-4f95-8725-487a6eca65f0.png)
