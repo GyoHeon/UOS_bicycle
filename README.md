@@ -26,7 +26,7 @@ Date. 2021.05.57
 
 ### 네트워크 플롯
 
-![image](https://user-images.githubusercontent.com/66263916/182033361-8b2e7991-fcd3-4062-90f1-80cfccb8b431.png)
+![image](https://user-images.githubusercontent.com/66263916/204313258-76a621be-898a-4551-a90f-7511c12e5a36.png)
 
 ### 달별 시간대 이동량
 
